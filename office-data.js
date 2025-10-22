@@ -263,8 +263,8 @@ const officeData = {
                 { name: "Scott Hackbarth", title: "Agency Owner", agency: "Schofield Insurance Agency", email: "scotth@bwoinsurance.com", phone: "(715) 359-6246", photo: "SH" }
             ],
             tier2: [
-                { name: "Davis Hackbarth", title: "Licensed Agent", agency: "Schofield Insurance Agency", email: "Davish@bwoinsurance.com", phone: "(715) 359-6246", photo: "DH" },
-                { name: "Nick Weiss", title: "Licensed Agent", agency: "Schofield Insurance Agency", email: "Nickw@bwoinsurance.com", phone: "(715) 359-6246", photo: "NW" }
+                { name: "Davis Hackbarth", title: "Licensed Agent", agency: "Schofield Insurance Agency", email: "Davish@bwoinsurance.com", phone: "(715) 571-2030", photo: "DH" },
+                { name: "Nick Weiss", title: "Licensed Agent", agency: "Schofield Insurance Agency", email: "Nickw@bwoinsurance.com", phone: "(715) 412-1196", photo: "NW" }
             ],
             tier3: [],
             tier4: []
@@ -345,7 +345,7 @@ const officeData = {
         description: "I have been in the industry over 17 years and we are active members of the P.I.A",
         agents: {
             tier1: [
-                { name: "Dustin Barnett", title: "Agency Owner", agency: "BIA LLC", email: "Dustin.Barnett@gmail.com", phone: "(715) 803-6373", photo: "DB" }
+                { name: "Dustin Barnett", title: "Agency Owner", agency: "BIA LLC", email: "dustin@barnettinsuranceagency.com", phone: "(715) 803-6373", photo: "DB" }
             ],
             tier2: [],
             tier3: [],
@@ -614,7 +614,7 @@ const officeData = {
                 description: "As an insurance agent specializing in Commercial, Personal, and Life insurance, I am dedicated to providing tailored coverage solutions for our clients. With a deep understanding of the industry, I prioritize building strong relationships, ensuring that each client feels valued and informed. My expertise allows me to navigate complex policies, offering clear explanations and personalized recommendations—whether protecting a business's assets or securing a family's financial future. I am committed to delivering peace of mind through reliable coverage and exceptional service.",
                 agents: {
                     tier1: [
-                        { name: "Karian Castillo", title: "Agency Owner", agency: "American One Insurance Agency LLC", email: "karina@bwoinsurance.com", phone: "(414) 539-4036", photo: "KC" }
+                        { name: "Karina Castillo", title: "Agency Owner", agency: "American One Insurance Agency LLC", email: "karina@bwoinsurance.com", phone: "(414) 539-4036", photo: "KC" }
                     ],
                     tier2: [
                         { name: "Fatima Valle", title: "Licensed Agent", agency: "American One Insurance Agency LLC", email: "FatimaV@bwoinsurance.com", phone: "(414) 539-4036", photo: "FV" },
@@ -684,5 +684,6 @@ const officeData = {
         }
     }
 };
+
 
 

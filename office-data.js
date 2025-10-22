@@ -263,8 +263,8 @@ const officeData = {
                 { name: "Scott Hackbarth", title: "Agency Owner", agency: "Schofield Insurance Agency", email: "scotth@bwoinsurance.com", phone: "(715) 359-6246", photo: "SH" }
             ],
             tier2: [
-                { name: "Davis Hackbarth", title: "Licensed Agent", agency: "Schofield Insurance Agency", email: "Davish@bwoinsurance.com", phone: "(715) 359-6246", photo: "DH" },
-                { name: "Nick Weiss", title: "Licensed Agent", agency: "Schofield Insurance Agency", email: "Nickw@bwoinsurance.com", phone: "(715) 359-6246", photo: "NW" }
+                { name: "Davis Hackbarth", title: "Licensed Agent", agency: "Schofield Insurance Agency", email: "Davish@bwoinsurance.com", phone: "(715) 571-2030", photo: "DH" },
+                { name: "Nick Weiss", title: "Licensed Agent", agency: "Schofield Insurance Agency", email: "Nickw@bwoinsurance.com", phone: "(715) 412-1196", photo: "NW" }
             ],
             tier3: [],
             tier4: []
@@ -684,5 +684,6 @@ const officeData = {
         }
     }
 };
+
 
 
